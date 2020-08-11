@@ -1,5 +1,5 @@
 <?php
-const DB_USER = "root";
-const DB_PASS = "tynopvhj926";
+const DB_USER = "";
+const DB_PASS = "";
 const DB_NAME = "ukrifotech_task";
 ?>
