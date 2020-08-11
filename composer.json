@@ -1,0 +1,19 @@
+{
+    "name": "binary-managment/api",
+    "description": "test task for manage binary tree",
+    "authors": [
+        {
+            "name": "Dmitro Terentiuk",
+            "email": "kombidemon@gmail.com"
+        }
+    ],
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {"BinaryManagment\\":"src"},
+        "files": [
+            "config/db.php"
+        ]
+    }
+}
